@@ -1,0 +1,5 @@
+venv/
+Output/
+webdriver/
+.idea/
+__pycache__/

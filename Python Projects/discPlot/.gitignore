@@ -1,0 +1,5 @@
+venv/
+CSV/
+webdriver/
+.idea/
+__pycache__/

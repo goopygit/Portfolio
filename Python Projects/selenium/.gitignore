@@ -1,0 +1,8 @@
+venv/
+Gets/
+Output/
+webdriver/
+.idea/
+__pycache__/
+credentials.py
+
